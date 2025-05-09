@@ -19,7 +19,7 @@ CursorGuard is a Windows desktop application designed to lock your mouse cursor 
 ### How to Use
 
 1.  **Install .NET 9 Desktop Runtime:** If not already installed, [download and install it from Microsoft](https://dotnet.microsoft.com/download/dotnet/9.0).
-2.  **Download:** Grab the latest `CursorGuard.exe` from the [Releases](../../releases) page (once you create releases on GitLab).
+2.  **Download:** Grab the latest `CursorGuard.exe` from the [Releases](../../releases) page.
 3.  **Launch:** Run `CursorGuard.exe`.
 4.  **Target Application:** Open the game or application you want to lock your cursor to.
 5.  **Activate Window:** Make sure the target window is the active (foreground) window.
@@ -55,7 +55,7 @@ CursorGuard ist eine Windows-Desktopanwendung, die entwickelt wurde, um Ihren Ma
 ### Bedienung
 
 1.  **.NET 9 Desktop Runtime installieren:** Falls noch nicht geschehen, [laden Sie diese von Microsoft herunter und installieren Sie sie](https://dotnet.microsoft.com/download/dotnet/9.0).
-2.  **Download:** Laden Sie die neueste `CursorGuard.exe` von der [Releases](../../releases)-Seite herunter (sobald Sie Releases auf GitLab erstellen).
+2.  **Download:** Laden Sie die neueste `CursorGuard.exe` von der [Releases](../../releases)-Seite herunter.
 3.  **Starten:** Führen Sie `CursorGuard.exe` aus.
 4.  **Zielanwendung:** Öffnen Sie das Spiel oder die Anwendung, auf die Sie Ihren Cursor beschränken möchten.
 5.  **Fenster aktivieren:** Stellen Sie sicher, dass das Zielfenster das aktive Fenster (im Vordergrund) ist.
