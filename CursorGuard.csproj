@@ -5,9 +5,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>CursorGuard.ico</ApplicationIcon>
     <AssemblyName>CursorGuard</AssemblyName>
     <RootNamespace>CursorGuard</RootNamespace>
   </PropertyGroup>
+  <ItemGroup>
+    <Content Include="CursorGuard.ico" />
+  </ItemGroup>
   <ItemGroup>
     <!-- Icon wird vorerst entfernt, um Build-Fehler zu vermeiden -->
   </ItemGroup>
