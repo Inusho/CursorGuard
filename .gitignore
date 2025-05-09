@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files, build results, and configuration files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore build output
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore other temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore Rider specific files
+.idea/
+
+# Ignore publish output
+publish/
+Release/Final/
+
+# Ignore specific files
+error_log.txt
